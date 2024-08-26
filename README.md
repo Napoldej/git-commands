@@ -12,3 +12,10 @@ what has changed on your working space
 ```
 git diff
 ```
+
+Switch branch
+
+```
+git switch -branch_name
+
+```
